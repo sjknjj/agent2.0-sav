@@ -268,4 +268,7 @@ python3 -m unittest discover -s tests -v     # 21 项：清洗 / 反幻觉 / 助
 
 ## License
 
-[MIT](LICENSE)
+[GNU AGPL v3.0](LICENSE)
+
+> 本项目采用 GNU Affero General Public License v3.0 开源协议。
+> 如果你在网络服务器上修改并使用本项目，需向所有用户公开修改后的完整源代码。
